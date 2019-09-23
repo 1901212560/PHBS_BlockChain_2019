@@ -101,4 +101,4 @@ First of all,  5 accounts A B C D E are created and I create 10 and 5 coins for 
 
 All tests pass.
 
-![result](C:\Users\bolan\Desktop\result.png)
+![result](result.png)
