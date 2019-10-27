@@ -28,7 +28,7 @@ At present, the data of each charity is not shared. Therefore, different public 
 
 In our project, we build an application model based on Ethereum to record all information from charitable donation into the block chain, which makes sure decentralization, transparency, non-tampering and traceability. Here are design concepts:
 
-<div align=center>< img width="250" height="300" src="https://github.com/bolan0107/PHBS_BlockChain_2019/blob/master/project/chart.png"/></div>
+  ![](chart.png)
 
 #### **1.Release donation project.** 
 
